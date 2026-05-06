@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Sohail
 
-Cybersecurity Engineering student at Jeppiaar and Campus Ambassador at Nishchit, building practical projects around AI-assisted security, phishing detection, threat analysis, and log intelligence.
+Cybersecurity Engineering student at Jeppiaar, building practical projects around AI-assisted security, phishing detection, threat analysis, and log intelligence.
 
 [Portfolio Website](https://mohammed-sohail-portfolio.netlify.app) | [LinkedIn](https://www.linkedin.com/in/mohammed-sohail-65013928b?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [AI Phishing Detector Live Demo](https://sonu0070.github.io/ai-phishing-detector/) | [Portfolio Repo](https://github.com/Sonu0070/mohammed-sohail-portfolio)
 
@@ -9,7 +9,6 @@ Cybersecurity Engineering student at Jeppiaar and Campus Ambassador at Nishchit,
 ## About Me
 
 - 4th-year Cybersecurity Engineering student
-- Campus Ambassador at Nishchit
 - Interested in AI for security operations and security engineering
 - Learning agentic AI, generative AI, networking, and defensive security
 - Building practical projects instead of only studying theory
